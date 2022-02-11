@@ -23,7 +23,7 @@ import static java.lang.System.out;
 
 
 public class FreeCRMTest {
-	
+
 	public WebDriver driver;
 	public ExtentReports extent;
 	public ExtentTest extentTest;
